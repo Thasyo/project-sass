@@ -2,7 +2,7 @@
 
 ## Preview do Projeto
 
-![preview](../react_sass//src/assets/react-sass.gif)
+![preview](../react_sass/src/assets/react-sass.gif)
 
 ### 📃 Descrição 📃
 
