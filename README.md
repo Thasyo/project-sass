@@ -1,8 +1,34 @@
-# React + Vite
+# Projeto com React e SASS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview do Projeto
 
-Currently, two official plugins are available:
+![preview](../react_sass//src/assets/react-sass.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📃 Descrição 📃
+
+- Propósito
+
+    - O propósito deste projeto foi exclusivamente para desenvolver e praticar meus conhecimentos em Sass, uma extensão do CSS.
+
+### 📉 Funcionalidades 📈
+
+- O projeto é uma ideia de Portfolio, cujo objetivo é disponibilizar informações sobre a pessoa em questão.
+
+### 🛠️ Tecnologias 🛠️
+
+- REACT
+- JAVASCRIPT
+- SASS
+- GIT
+- GITHUB
+- VSCODE
+
+### 👨‍💻 Status do Projeto 👨‍💻
+
+- Finalizado com Sucesso! ✔️
+
+## 🛑 Não pare por aqui! 🛑
+
+- Gostou do meu projeto? Então me acompanhe no LinkedIn, para ficar por dentro das minhas últimas aplicações! 😉
+
+- [Linkedin](https://www.linkedin.com/in/thasyo-peres-63aa27235/)
